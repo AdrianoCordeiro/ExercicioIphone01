@@ -1,0 +1,33 @@
+.um{
+ background-color: blue;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ padding: 50px;
+ width: 10%;
+ height: 100%;
+ margin-right: 25px;
+
+}
+.dois{
+    background-color: crimson;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+
+.tres{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
+.quatro{
+    background-color: chartreuse;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px;
+}
